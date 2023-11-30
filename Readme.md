@@ -35,7 +35,7 @@
 
 <img width="100%" src="./src/images-gifs/linguagens-ferramentas.gif" alt="Banner escrito Linguagens e Ferramentas com gif animado de uma pessoa usando o computador">
 
-<img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+<img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 
 
 <table align="right" height="255px">
