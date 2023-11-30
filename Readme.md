@@ -2,6 +2,7 @@
 <img width="100%" src="./src/images-gifs/bem-vindo.gif" alt="Banner escrito Bem Vindo(a) com gif animado de um computador escrevendo Hello World" >
 
 <div width="100%" align="center"><img src="./src/images-gifs/john.gif" alt="Imagem de homem em frente ao computador com texto Olá, meu nome é John! Desenvolvedor Front-end"></div>
+</hr>
 
 <img width="100%" src="./src/images-gifs/sobre-mim.gif" alt="Banner escrito Sobre Mim com gif animado escrito Jeito Programmers de Ser">
 
@@ -30,6 +31,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q3plsxifsodlzz5eigaepeys6a&&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=25159e" alt="Música que está tocando no Spotify do John Dalton no momento" />
   </a>
 </div>
+</hr>
 
 <img width="100%" src="./src/images-gifs/linguagens-ferramentas.gif" alt="Banner escrito Linguagens e Ferramentas com gif animado de uma pessoa usando o computador">
 
@@ -258,6 +260,8 @@
 </div>
 
 ![snake gif](https://github.com/john-dalton-27/john-dalton-27/blob/output/github-contribution-grid-snake.svg)
+
+</hr>
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
