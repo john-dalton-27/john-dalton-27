@@ -257,9 +257,9 @@
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-dalton-27&layout=donut-vertical&theme=dark" />
 
-<img align="left" height="60%" src="https://github-readme-stats.vercel.app/api?username=john-dalton-27&show_icons=true&theme=dark"  alt="Status do perfil de John Dalton no Github"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=john-dalton-27&show_icons=true&theme=dark"  alt="Status do perfil de John Dalton no Github"/>
 
-<img align="left" height="60%" src="https://streak-stats.demolab.com?user=john-dalton-27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="Painel que lista as contribuições de John Dalton no Github" />
+<img align="left" width="50%" src="https://streak-stats.demolab.com?user=john-dalton-27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="Painel que lista as contribuições de John Dalton no Github" />
 
 <img align="center" src="https://github.com/john-dalton-27/john-dalton-27/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game">
 
