@@ -259,7 +259,7 @@
   <img src="https://streak-stats.demolab.com?user=john-dalton-27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" alt="Painel que lista as contribuições de John Dalton no Github" />
 </div>
 
-![snake gif](https://github.com/john-dalton-27/john-dalton-27/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/john-dalton-27/john-dalton-27/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr/>
 
