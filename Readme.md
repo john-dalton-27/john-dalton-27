@@ -38,7 +38,7 @@
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 
 
-<table align="right" height="240px">
+<table align="right" height="245px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -70,6 +70,8 @@
       </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
@@ -80,8 +82,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://react-hook-form.com/">
         <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
@@ -102,16 +102,8 @@
       </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
-            <pre>Styled<br/>Components</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
@@ -122,8 +114,6 @@
         </sub>
       </a>
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
@@ -144,6 +134,8 @@
         </sub>
       </a>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
@@ -164,8 +156,6 @@
         </sub>
       </a>
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <a href="https://jestjs.io/pt-BR/">
         <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="jest icon"/><br/>
@@ -176,6 +166,8 @@
         </sub>
       </a>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://laravel.com/">
         <img src="https://skillicons.dev/icons?i=laravel" width="65px" alt="Laravel icon"/><br/>
@@ -213,7 +205,7 @@
 
 <img width="100%" src="./src/images-gifs/projetos.gif" alt="Banner projetos com gif animado de pinguin digitando códigos no computador">
 <img align="left" src="./src/images-gifs/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="495px" align="right">
+<table height="480px" align="right">
   <tr>
     <td>
     <a href=https://github.com/john-dalton-27/projeto-fetch-github-api target="_blank">
