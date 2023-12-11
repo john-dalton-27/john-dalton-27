@@ -255,9 +255,10 @@
 
 <img width="100%" src="./src/images-gifs/contribuicoes.gif" alt="Banner contribuições com gif animado de computador pegando fogo">
 
+<div style="display:flex;">
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-dalton-27&layout=donut-vertical&theme=dark" />
-
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=john-dalton-27&show_icons=true&theme=dark"  alt="Status do perfil de John Dalton no Github"/>
+</div>
 
 <img align="left" width="50%" src="https://streak-stats.demolab.com?user=john-dalton-27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="Painel que lista as contribuições de John Dalton no Github" />
 
