@@ -38,7 +38,7 @@
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 
 
-<table align="right" height="255px">
+<table align="right" height="240px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
