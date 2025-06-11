@@ -288,6 +288,6 @@
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/john-dalton-dev/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /><a/>
-  <a target="_blank" href="https://w.app/DCm9wt"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" ></a>
+  <a target="_blank" href="https://wa.me/qr/RUJVLH3U46MME1"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" ></a>
   <a target="_blank" href="mailto:jd2946131@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
