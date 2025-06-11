@@ -9,28 +9,22 @@
 <img align="right" src="./src/images-gifs/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 
 <ul>
-  <li>🥰 Apaixonado por Programação, Games e Música.</li>
-  <li>💻 Sou aluno do curso <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">DevQuest</a>. Também, já fiz cursos do <a href="https://horadecodar.com.br/" target="_blank">Matheus Battisti</a>. Participei do evento <a href="https://app.santanderopenacademy.com/pt-BR/program/bolsas-santander-tecnologia-santander-coders-2022" target="_blank">Santander Coders 2022</a>. Consumo muito conteúdo grátis no <a href="https://www.youtube.com/">Youtube</a>.
-  <li>🎓 Possuo 10 anos de experiência com resolução de problemas, trabalho em equipe e atendimento ao público. Mais de 1 ano de experiência prática com programação.</li>
-  <li>💎 Estou me especializando em Front-end, mas tenho noções de Back-end, pois meu objetivo a longo prazo é me tornar um Desenvolvedor Full-stack.</li>
-  <li>🚀 Atualmente, estou estudando <strong>React.js</strong>, <strong>Laravel</strong> e <strong>Inglês</strong>.</li>
+  <li>🥰 Software and Game Developer</li>
+  <li>💻 I am a passionate software and game developer specializing in C#, .Net and Unity. I love creating interactive and engaging experiences.</a>.
+  <li>🎓 Analysis and System Development.</li>
+  <li>💎 I have experience with front-end, back-end, game-development and problem solutions.</li>
+  <li>🚀 Now, I'm studying <strong>React.js</strong>, <strong>Unity 3D</strong> and <strong>ASP.Net</strong>.</li>
   <li>
     <details>
-      <summary>👽 Curiosidades:</summary>
+      <summary>👽 Curiosities:</summary>
         <ul>
-          <li>🎮 Gosto de jogar <a href="https://hearthstone.blizzard.com/pt-br" target="_blank">Hearthstone</a>, <a href="https://sw.com2us.com/pt/skyarena" target="_blank">Summoners War</a>.</li>
-          <li>🤘 Sou um grande fã da banda <a href="https://angra.net/" target="_blank">Angra</a>.</li>
-          <li>🎸 Gosto muito de tocar Violão.</li>
+          <li>🎮 I love strategy games, like <a href="https://hearthstone.blizzard.com/pt-br" target="_blank">Hearthstone</a>, <a href="https://sw.com2us.com/pt/skyarena" target="_blank">Summoners War</a>.</li>
+          <li>🤘 Like Rock N' Roll bands, my favorite is <a href="https://angra.net/" target="_blank">Angra</a>.</li>
+          <li>🎸 Guitar player.</li>
         </ul>
     </details>
   </li>
 </ul>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31q3plsxifsodlzz5eigaepeys6a" target="blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q3plsxifsodlzz5eigaepeys6a&&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=25159e" alt="Música que está tocando no Spotify do John Dalton no momento" />
-  </a>
-</div>
 <hr/>
 
 <img width="100%" src="./src/images-gifs/linguagens-ferramentas.gif" alt="Banner escrito Linguagens e Ferramentas com gif animado de uma pessoa usando o computador">
@@ -41,6 +35,37 @@
 <table align="right" height="245px">
   <tr>
     <td align="center">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="CSharp icon"/><br/>
+        <sub>
+          <b>
+            <pre>C#</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt="Dotnet icon"/><br/>
+        <sub>
+          <b>
+            <pre>.NET</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://unity.com/">
+        <img src="https://skillicons.dev/icons?i=unity" width="65px" alt="Unity icon"/><br/>
+        <sub>
+          <b>
+            <pre>Unity</pre>
+          </b>
+        </sub>
+      </a>
+    </tr>
+    <tr>
+    <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
         <sub>
@@ -49,6 +74,7 @@
           </b>
         </sub>
       </a>
+    </td>
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
@@ -73,11 +99,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
+      <a href="https://www.notion.com/">
+        <img src="https://skillicons.dev/icons?i=notion" width="65px" alt="Notion icon"/><br/>
         <sub>
           <b>
-            <pre>Gitflow</pre>
+            <pre>Notion</pre>
           </b>
         </sub>
       </a>
@@ -93,11 +119,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://getbootstrap.com/">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
+      <a href="https://azure.microsoft.com/">
+      <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Azure icon"/><br/>
       <sub>
         <b>
-          <pre>Bootstrap</pre>
+          <pre>Azure</pre>
         </b>
       </sub>
       </a>
@@ -157,11 +183,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://jestjs.io/pt-BR/">
-        <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="jest icon"/><br/>
+      <a href="https://visualstudio.microsoft.com/">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="65px" alt="Visual Studio icon"/><br/>
         <sub>
           <b>
-            <pre>Jest</pre>
+            <pre>Visual Studio</pre>
           </b>
         </sub>
       </a>
