@@ -32,11 +32,11 @@
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 
 
-<table align="right" height="245px">
+<table align="right" height="245px" overflow-y: scroll>
   <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="CSharp icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=cs" width="60px" alt="CSharp icon"/><br/>
         <sub>
           <b>
             <pre>C#</pre>
@@ -46,7 +46,7 @@
     </td>
     <td align="center">
       <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt="Dotnet icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=dotnet" width="60px" alt="Dotnet icon"/><br/>
         <sub>
           <b>
             <pre>.NET</pre>
@@ -56,7 +56,7 @@
     </td>
     <td align="center">
       <a href="https://unity.com/">
-        <img src="https://skillicons.dev/icons?i=unity" width="65px" alt="Unity icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=unity" width="60px" alt="Unity icon"/><br/>
         <sub>
           <b>
             <pre>Unity</pre>
@@ -67,7 +67,7 @@
     <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=react" width="60px" alt="React icon"/><br/>
         <sub>
           <b>
             <pre>React.js</pre>
@@ -78,7 +78,7 @@
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=ts" width="60px" alt="Typescript icon"/><br/>
         <sub>
           <b>
             <pre>Typescript</pre>
@@ -88,7 +88,7 @@
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="60px" alt="Tailwind icon"/><br/>
       <sub>
         <b>
           <pre>Tailwind<br/>CSS</pre>
@@ -100,7 +100,7 @@
   <tr>
     <td align="center">
       <a href="https://www.notion.com/">
-        <img src="https://skillicons.dev/icons?i=notion" width="65px" alt="Notion icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=notion" width="60px" alt="Notion icon"/><br/>
         <sub>
           <b>
             <pre>Notion</pre>
@@ -110,7 +110,7 @@
     </td>
     <td align="center">
       <a href="https://react-hook-form.com/">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="60px" alt="React Hook Form icon"/><br/>
         <sub>
           <b>
             <pre>React Hook<br/>Form</pre>
@@ -120,7 +120,7 @@
     </td>
     <td align="center">
       <a href="https://azure.microsoft.com/">
-      <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Azure icon"/><br/>
+      <img src="https://skillicons.dev/icons?i=azure" width="60px" alt="Azure icon"/><br/>
       <sub>
         <b>
           <pre>Azure</pre>
@@ -132,7 +132,7 @@
     <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=js" width="60px" alt="Javascript icon"/><br/>
         <sub>
           <b>
             <pre>Javascript</pre>
@@ -142,7 +142,7 @@
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=css" width="60px" alt="CSS3 icon"/><br/>
         <sub>
           <b>
             <pre>CSS3</pre>
@@ -152,7 +152,7 @@
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=html" width="60px" alt="HTML5 icon"/><br/>
         <sub>
           <b>
             <pre>HTML5</pre>
@@ -164,7 +164,7 @@
     <tr>
     <td align="center">
       <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=bash" width="60px" alt="bash icon"/><br/>
         <sub>
           <b>
             <pre>Terminal</pre>
@@ -174,7 +174,7 @@
     </td>
     <td align="center">
       <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="60px" alt="visual studio code icon"/><br/>
         <sub>
           <b>
             <pre>VSCode</pre>
@@ -184,7 +184,7 @@
     </td>
     <td align="center">
       <a href="https://visualstudio.microsoft.com/">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="65px" alt="Visual Studio icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="60px" alt="Visual Studio icon"/><br/>
         <sub>
           <b>
             <pre>Visual Studio</pre>
@@ -196,7 +196,7 @@
     <tr>
     <td align="center">
       <a href="https://laravel.com/">
-        <img src="https://skillicons.dev/icons?i=laravel" width="65px" alt="Laravel icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=laravel" width="60px" alt="Laravel icon"/><br/>
         <sub>
           <b>
             <pre>Laravel</pre>
@@ -206,7 +206,7 @@
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Mysql icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt="Mysql icon"/><br/>
         <sub>
           <b>
             <pre>Mysql</pre>
@@ -216,7 +216,7 @@
     </td>
     <td align="center">
       <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=php" width="65px" alt="PHP icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=php" width="60px" alt="PHP icon"/><br/>
         <sub>
           <b>
             <pre>PHP</pre>
