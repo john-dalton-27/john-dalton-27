@@ -230,8 +230,8 @@
 <hr/>
 
 <img width="100%" src="./src/images-gifs/projetos.gif" alt="Banner projetos com gif animado de pinguin digitando códigos no computador">
-<img align="left" src="./src/images-gifs/projects-wallpaper.gif" width="400px" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="460px" align="right">
+<img align="left" src="./src/images-gifs/projects-wallpaper.gif" width="380px" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="460px" width="300px" align="right">
   <tr>
     <td>
     <a href=https://github.com/john-dalton-27/projeto-fetch-github-api target="_blank">
