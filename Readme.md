@@ -262,8 +262,8 @@
   </tr>
   <tr>
     <td>
-    <a href=https://github.com/john-dalton-27/projeto-marvel target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-dalton-27&repo=projeto-marvel&theme=dark"/>
+    <a href=https://github.com/john-dalton-27/ControleDeEstoque target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-dalton-27&repo=ControleDeEstoque&theme=dark"/>
     </a>
     </td>
   </tr>
